@@ -5,7 +5,7 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "churchapp", "churchapp\chur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "churchapp.iOS", "iOS\churchapp.iOS.csproj", "{20E5CCBA-1A29-41C7-8FD0-38F91EDBE72F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "churchapp.Droid", "Droid\churchapp.Droid.csproj", "{FE70B2A8-D8B5-4977-A936-D1CBB12E58AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firstbaptistchurch.Droid", "Droid\firstbaptistchurch.Droid.csproj", "{FE70B2A8-D8B5-4977-A936-D1CBB12E58AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
